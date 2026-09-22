@@ -624,6 +624,17 @@
     "Nijo Castle"
   ],
   "correctIndex": 0
+},
+  {
+  "question": "Which city is famous for the Peace Memorial Park?",
+  "difficulty": "easy",
+  "answers": [
+    "Hiroshima",
+    "Osaka",
+    "Tokyo",
+    "Fukuoka"
+  ],
+  "correctIndex": 0
 }
 
 ]
